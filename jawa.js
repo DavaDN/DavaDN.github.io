@@ -1,12 +1,10 @@
 data = [{
-    'img1': 'asset/screenshot (92).png',
-    'img2': 'asset/screenshot (92).png',
+    'img1': 'asset/beranda.png',
     'title': 'Web E-Commerce',
     'subtitle': 'Html',
     'desc' : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione aliquam, officia veniam nulla voluptates iusto.'
 },{
-    'img1': 'asset/screenshot (91).png',
-    'img2': 'asset/screenshot (91).png',
+    'img1': 'asset/beranda2.png',
     'title': 'Web E-Commerce',
     'subtitle': 'CSS',
     'desc' : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione aliquam, officia veniam nulla voluptates iusto.'
